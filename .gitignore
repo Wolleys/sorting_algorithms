@@ -1,0 +1,9 @@
+# Ignore Emacs buffer files
+*~
+*#
+
+# Ignore object files
+*.o
+
+# Ignore all main files
+*-main.c
